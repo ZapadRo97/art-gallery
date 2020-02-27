@@ -1,4 +1,4 @@
-[
+{"galleries":[
     {
         "gallery_name": "Paintings",
         "level": 1,
@@ -23,4 +23,4 @@
         "latitude": 44.4392994,
         "longitude": 26.0959075
     }
-]
+]}
